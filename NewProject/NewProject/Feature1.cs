@@ -6,10 +6,8 @@ namespace NewProject
 {
     class Feature1
     {
-        public int Add()
+        public int Add(int x, int y )
         {
-            int x = 10;
-            int y = 20;
             return x + y;
 
         }
