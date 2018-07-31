@@ -8,8 +8,8 @@ namespace NewProject
     {
         public int Add()
         {
-            int x = 10;
-            int y = 20;
+            Var x = 10;
+            Var y = 20;
             return x + y;
 
         }
